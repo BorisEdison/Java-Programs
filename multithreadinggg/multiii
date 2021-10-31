@@ -1,0 +1,37 @@
+in  main thread execution happenns sequencially
+
+to execution parallelly extend from thread class
+
+start method which bleongs to thread class// start method identifies with method run
+
+stop will be exectued implicitly
+
+
+scheduler   schedules it randomly(priority)
+
+
+thread : smallest unit of process 
+
+
+new: the thread object is created new operator is used 
+BUT STATRT METHOD IS NOT INVOKED YET SO IT IS NOT YET ELIGIBLE TO RUN
+
+RUNNABLE:
+ONLY WHEN SHEDULER SHEDULES IT IT ENTER THE RUNNING STATE
+IT IS CONSIDERED ALIVE  IN RUNNABLE STATE
+
+
+RUNNING : 
+run method is invoked for it to invoke RUNNING
+
+thread sheduler behaviour is completely unpredictable
+
+wait() to go to waiting STATE
+
+
+to return to runnable notify().
+
+sleep():
+running to sleepstate
+
+if suspend is used we need to used resume

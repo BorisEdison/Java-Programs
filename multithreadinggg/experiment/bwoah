@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Boris's Personal Site</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img srcset="Images/borisedison.png 6x" alt="Boris profile picture"></td>
+      <td>
+        <h1>Boris Edison</h1>
+        <p><em>Founder and CTO <strong><a href="https://www.formula1.com/">Formula 1</a></strong></em></p>
+        <p>I am a Student, studying computer engineering</p>
+      </td>
+    </tr>
+  </table>
+
+  <hr>
+  <h3>Learning</h3>
+  <ul>
+    <li>Data Structure</li>
+    <li>Digital Logic</li>
+    <li>Discrete Mathematics</li>
+  </ul>
+  <hr>
+
+  <h3>Work Experience </h3>
+  <table  cellspacing = "10">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Work</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2010-2013</td>
+        <td>Lead Developer at Tempo App</td>
+      </tr>
+      <tr>
+        <td>2010</td>
+        <td>Researcher at The Institute of Cognitive Neuroscience</td>
+      </tr>
+
+    </tbody>
+  </table>
+  <hr>
+  <h3>Skills</h3>
+  <table>
+    <tr>
+      <td>
+        <table cellspacing = "10">
+          <tr>
+            <td>iOS Development</td>
+            <td>⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Photography</td>
+            <td>⭐⭐⭐</td>
+
+          </tr>
+          <tr>
+            <td>Web Development</td>
+            <td>⭐⭐⭐⭐⭐</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table cellspacing = "10">
+          <tr>
+            <td>iOS Development</td>
+            <td>⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Photography</td>
+            <td>⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Web Development</td>
+            <td>⭐⭐⭐⭐⭐</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <hr>
+  <a href="hobbies.html">My Hobbies</a>
+  <a href="Contactme.html">Contact Me</a>
+
+
+
+</body>
+
+</html>

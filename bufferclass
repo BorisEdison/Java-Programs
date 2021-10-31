@@ -1,0 +1,10 @@
+for buffer class 
+
+    InputStreamReader has to read the input and then that input is stored in the buffer
+    which is read by the BufferedReader
+
+
+    buffer reader will always read string type of input or character string so to read integers
+    we have to use Integer.parseInt
+
+    

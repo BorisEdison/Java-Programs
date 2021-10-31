@@ -1,0 +1,26 @@
+object of class
+will hide details of the user
+
+using abtract class we can only achive partial abstraction
+
+we cannot create abstract object meaning it cannnot instantiated     abstract method dont have a method body
+it can have final mehtodit can have contuctor and static method;
+
+
+keyword abstraction
+
+abstract class {}   //class
+
+abstract class can have non absract mehtod and class
+
+absract void setinfo()    // method            regular or concrete method
+cannot have non abstract
+dont have immplmentation details
+
+
+
+
+abstract mehtod must be given implementation in the sub class
+
+when sub class object is created default constructor is executed
+

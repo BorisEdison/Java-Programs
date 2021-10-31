@@ -1,0 +1,3 @@
+class- class         Extends
+class- interface     Implements
+interface- interface    Extends

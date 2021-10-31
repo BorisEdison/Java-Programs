@@ -1,0 +1,25 @@
+identify the exception = try
+handle the exception = catch
+
+
+
+order should be specific to generic
+
+checked exception have to be handled if not programm will not be compiled therefore not run
+>compiler time
+1)IO exception                throws IOException
+2)SQL exception
+3) classNotfoundException
+
+Uncheck exception
+>run time exception
+1) Arithmetic Exception 
+2) NUll pointer Exception 
+3) INdex Out of Bound Exception
+    array index out of bound 
+    String index out of bound
+
+
+throwable class is superclass of all the exception
+
+there can be

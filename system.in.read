@@ -1,0 +1,6 @@
+can only read one character at a time
+
+
+class name new class(system.in to read input string)
+
+charat takes index as a character

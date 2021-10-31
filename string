@@ -1,0 +1,20 @@
+java string is immutable; meaning it cant be changed
+
+string is a class in java
+
+usually string is a sequence of characters but in java it is an object
+since it is an object it should have a string class
+
+* two ways for assigning 
+1)using string literal                        string constant pool
+2) by using new keyword
+
+one in the string contant pool one in heap memory
+
+
+Stringindexoutofboundsexception 
+
+
+explicityly assign it to new object to immutalbe 
+
+in stringbuffer it will be appended

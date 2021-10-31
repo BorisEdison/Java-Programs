@@ -1,0 +1,6 @@
+dynamic array
+it is growable
+
+as an when we increase data it will grow dynamically
+
+it is part of java.util package

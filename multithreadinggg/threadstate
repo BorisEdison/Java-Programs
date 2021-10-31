@@ -1,0 +1,16 @@
+new : instance of thread is created using new operator it is in new state
+
+runnable : runnable after invokation of start method
+running : when scheduler has seletected it
+non runnable : in blocked or wait statae
+
+terminated : dead state when run() mehod is completed
+
+
+default thread : main thread
+
+
+join will make the main method to wait
+
+
+multitasking can be achieved by mutithreading and mutipocessing

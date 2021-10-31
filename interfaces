@@ -1,0 +1,30 @@
+data members(variable) will be public static final by default
+
+can only have abstact method(something that does not have code body)
+
+only the functionality is provided to the end user implementation part will be hidden
+
+in interface we cannot non abstract methods
+
+
+multiple inheritance is not supported in java ( two parent class one subclass)
+but with interface we can implement it
+
+
+interface keyword
+implements instead of method (class to interface)
+
+
+driver class the class which has he main method
+
+creating object of circle class overidden
+
+implementation is provided by different providers
+
+interface provides total abstraction
+
+a class that implements an interface must implement all the methods declared in the interface
+
+java compiler adds public and abstract keywords before the interface method
+it adds public static void and final keywords before data members
+
