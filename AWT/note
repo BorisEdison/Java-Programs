@@ -1,0 +1,16 @@
+awt-abstract window toolkit
+
+platform dependent( subroutine used for creating components such as textbox, checkbox,button etc.)
+
+It is rarely used now a days because of its platform dependent and heavy weight nature(generated
+by underlying operating system)
+
+
+COMPONENT: Container, Button, Label, Checkbox, Choice, Scrollbar
+CONTAINER: Window, Panel, Frame, Dialog
+WINDOW: FrameImost used), Dialog
+PANEL: Applet
+
+GUI using Frame
+1) By extending Frame Class
+2) By creating the instance of Frame Class
