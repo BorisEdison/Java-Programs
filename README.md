@@ -1,2 +1,2 @@
 # Java-Programs
-Coded these programs right after class to have better practice of the concepts.
+Coded these programs right after class to have better hold of the concepts.
